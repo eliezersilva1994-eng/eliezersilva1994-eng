@@ -6,7 +6,7 @@
 - 🔭 Trabalhando atualmente em um **sistema de controle de retirada de alunos** (web + mobile)
 - 🌱 Aprendendo mais sobre desenvolvimento mobile e boas práticas de banco de dados
 - 💼 Em busca de **oportunidades de estágio**
-- 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/eliézer-silva)
+- 📫 Como me encontrar: [LinkedIn](http://www.linkedin.com/in/eliézer-silva)
 
 ---
 
@@ -29,5 +29,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliezersilva1994-eng" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=eliezersilva1994-eng" alt="GitHub Streak" />
 </p>
